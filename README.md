@@ -1,7 +1,10 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+># RocketPAY
+
+![Preview](/.github/project.png)
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
+
 </p>
 
 <p align="center">
@@ -17,12 +20,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
 
-## 🚀 Tecnologias
 
+>## Tecnologias
+<br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
@@ -30,19 +31,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
-
-## 💻 Projeto
-
+<br>
+>## Projeto
+<br>
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
-## 🔖 Layout
+<br>
+
+>## Layout
+
+<br>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+<br>
+
+>## Contato
+
+<br>
+
+[<img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/anderson-carvalho-b1640421a/)
+
+<br>
+
+>## Licença
+
+<br> 
 
 Esse projeto está sob a licença MIT.
 
----
+<br>
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+
+---

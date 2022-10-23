@@ -69,3 +69,15 @@
   inset: 0;
   z-index: 0;
 }
+
+.credit {
+  display:flex;
+  background-color: #fff;
+  border-radius: 50%;
+  justify-content: center;
+  margin-left: 340px;
+  margin-top: -310px;
+  cursor: pointer;
+  width: 34px;
+  height: 34px;
+}
